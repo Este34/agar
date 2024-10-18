@@ -1,2 +1,1 @@
-# agar
-simulation d'agar.io
+Simulation reprenant les règles du jeu agar.io
