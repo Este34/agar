@@ -1,2 +1,1 @@
-# agar
-simulation d'agar.io
+Système multi-agents inspiré des règles du jeu agar.io
